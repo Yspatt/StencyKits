@@ -1,1 +1,2 @@
-# StencyKits
+# Kits
+

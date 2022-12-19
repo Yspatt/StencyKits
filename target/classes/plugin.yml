@@ -1,0 +1,9 @@
+name: StencyKits
+version: 1.0-SNAPSHOT
+main: br.com.stency.kits.Kits
+api-version: 1.13
+prefix: StencyKits
+depend: [Common]
+authors: [Yspatt]
+description: A Kit plugin
+website: stencynetwork.com
